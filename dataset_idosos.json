@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "prompt": "Moço, onde que eu vejo os remédios que eu tenho que tomar agora de tarde?",
+    "expected_target": "screen_medications"
+  },
+  {
+    "id": 2,
+    "prompt": "Quero falar com o meu filho de São Paulo, esqueci como mexe aqui.",
+    "expected_target": "screen_contacts"
+  },
+  {
+    "id": 3,
+    "prompt": "Ai, meu peito tá doendo um pouco, como chama o doutor?",
+    "expected_target": "screen_appointments"
+  },
+  {
+    "id": 4,
+    "prompt": "Me ajuda a colocar o despertador para amanhã cedo?",
+    "expected_target": "screen_alarm"
+  },
+  {
+    "id": 5,
+    "prompt": "Onde ficam guardados aqueles retratos antigos da família que me mandaram?",
+    "expected_target": "screen_gallery"
+  }
+]

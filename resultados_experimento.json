@@ -1,0 +1,98 @@
+{
+    "qwen:0.5b": [
+        {
+            "id": 1,
+            "latencia_segundos": 2.06,
+            "consumo_ram_mb": 0.4,
+            "sucesso": false
+        },
+        {
+            "id": 2,
+            "latencia_segundos": 2.05,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 3,
+            "latencia_segundos": 2.04,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 4,
+            "latencia_segundos": 2.02,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 5,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        }
+    ],
+    "gemma:2b": [
+        {
+            "id": 1,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 2,
+            "latencia_segundos": 2.04,
+            "consumo_ram_mb": 0,
+            "sucesso": false
+        },
+        {
+            "id": 3,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0,
+            "sucesso": false
+        },
+        {
+            "id": 4,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 5,
+            "latencia_segundos": 2.04,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        }
+    ],
+    "phi3": [
+        {
+            "id": 1,
+            "latencia_segundos": 2.04,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 2,
+            "latencia_segundos": 2.02,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 3,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 4,
+            "latencia_segundos": 2.04,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 5,
+            "latencia_segundos": 2.03,
+            "consumo_ram_mb": 0,
+            "sucesso": false
+        }
+    ]
+}
