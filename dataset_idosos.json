@@ -1,27 +1,17 @@
 [
-  {
-    "id": 1,
-    "prompt": "Moço, onde que eu vejo os remédios que eu tenho que tomar agora de tarde?",
-    "expected_target": "screen_medications"
-  },
-  {
-    "id": 2,
-    "prompt": "Quero falar com o meu filho de São Paulo, esqueci como mexe aqui.",
-    "expected_target": "screen_contacts"
-  },
-  {
-    "id": 3,
-    "prompt": "Ai, meu peito tá doendo um pouco, como chama o doutor?",
-    "expected_target": "screen_appointments"
-  },
-  {
-    "id": 4,
-    "prompt": "Me ajuda a colocar o despertador para amanhã cedo?",
-    "expected_target": "screen_alarm"
-  },
-  {
-    "id": 5,
-    "prompt": "Onde ficam guardados aqueles retratos antigos da família que me mandaram?",
-    "expected_target": "screen_gallery"
-  }
+  { "id": 1, "prompt": "Moço, onde que eu vejo os remédios que eu tenho que tomar agora de tarde?", "expected_target": "screen_medications" },
+  { "id": 2, "prompt": "Quero falar com o meu filho de São Paulo, esqueci como mexe aqui.", "expected_target": "screen_contacts" },
+  { "id": 3, "prompt": "Ai, meu peito tá doendo um pouco, como chama o doutor?", "expected_target": "screen_appointments" },
+  { "id": 4, "prompt": "Me ajuda a colocar o despertador para amanhã cedo?", "expected_target": "screen_alarm" },
+  { "id": 5, "prompt": "Onde ficam guardados aqueles retratos antigos da família que me mandaram?", "expected_target": "screen_gallery" },
+  { "id": 6, "prompt": "Por favor, preciso ver a receita daquele comprimido de pressão que o médico passou.", "expected_target": "screen_medications" },
+  { "id": 7, "prompt": "Minha filha pediu para eu ligar para ela, onde fica o caderno de telefone?", "expected_target": "screen_contacts" },
+  { "id": 8, "prompt": "Preciso marcar aquele exame do coração para a semana que vem.", "expected_target": "screen_appointments" },
+  { "id": 9, "prompt": "Como eu faço para o celular me avisar a hora de acordar para rezar?", "expected_target": "screen_alarm" },
+  { "id": 10, "prompt": "Quero ver os vídeos e as fotos que meus netos mandaram no grupo.", "expected_target": "screen_gallery" },
+  { "id": 11, "prompt": "Será que já está na hora de tomar a minha insulina? Onde eu olho?", "expected_target": "screen_medications" },
+  { "id": 12, "prompt": "Preciso do número da dona Maria da farmácia, onde eu acho?", "expected_target": "screen_contacts" },
+  { "id": 13, "prompt": "A consulta com o cardiologista ficou para qual dia mesmo?", "expected_target": "screen_appointments" },
+  { "id": 14, "prompt": "Me ajuda a programar o telefone para tocar às 20h para eu não perder a novela.", "expected_target": "screen_alarm" },
+  { "id": 15, "prompt": "Onde que sumiram as imagens do meu aniversário que estavam aqui?", "expected_target": "screen_gallery" }
 ]

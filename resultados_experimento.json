@@ -2,97 +2,277 @@
     "qwen:0.5b": [
         {
             "id": 1,
-            "latencia_segundos": 2.06,
-            "consumo_ram_mb": 0.4,
+            "latencia_segundos": 6.54,
+            "consumo_ram_mb": 0.54,
             "sucesso": false
         },
         {
             "id": 2,
-            "latencia_segundos": 2.05,
-            "consumo_ram_mb": 0.01,
+            "latencia_segundos": 0.69,
+            "consumo_ram_mb": 0.02,
             "sucesso": false
         },
         {
             "id": 3,
-            "latencia_segundos": 2.04,
+            "latencia_segundos": 1.04,
             "consumo_ram_mb": 0.02,
             "sucesso": false
         },
         {
             "id": 4,
-            "latencia_segundos": 2.02,
+            "latencia_segundos": 0.99,
             "consumo_ram_mb": 0.01,
             "sucesso": false
         },
         {
             "id": 5,
-            "latencia_segundos": 2.03,
+            "latencia_segundos": 1.89,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 6,
+            "latencia_segundos": 0.66,
+            "consumo_ram_mb": 0.03,
+            "sucesso": false
+        },
+        {
+            "id": 7,
+            "latencia_segundos": 0.54,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 8,
+            "latencia_segundos": 1.82,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 9,
+            "latencia_segundos": 2.1,
             "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 10,
+            "latencia_segundos": 1.67,
+            "consumo_ram_mb": 0.02,
+            "sucesso": false
+        },
+        {
+            "id": 11,
+            "latencia_segundos": 0.59,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 12,
+            "latencia_segundos": 0.5,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 13,
+            "latencia_segundos": 0.62,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 14,
+            "latencia_segundos": 1.57,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 15,
+            "latencia_segundos": 1.11,
+            "consumo_ram_mb": 0.05,
             "sucesso": false
         }
     ],
     "gemma:2b": [
         {
             "id": 1,
-            "latencia_segundos": 2.03,
-            "consumo_ram_mb": 0.02,
+            "latencia_segundos": 9.69,
+            "consumo_ram_mb": 0,
             "sucesso": false
         },
         {
             "id": 2,
-            "latencia_segundos": 2.04,
+            "latencia_segundos": 0.84,
             "consumo_ram_mb": 0,
             "sucesso": false
         },
         {
             "id": 3,
-            "latencia_segundos": 2.03,
-            "consumo_ram_mb": 0,
+            "latencia_segundos": 0.89,
+            "consumo_ram_mb": 0.0,
             "sucesso": false
         },
         {
             "id": 4,
-            "latencia_segundos": 2.03,
-            "consumo_ram_mb": 0.0,
+            "latencia_segundos": 2.83,
+            "consumo_ram_mb": 0.01,
             "sucesso": false
         },
         {
             "id": 5,
-            "latencia_segundos": 2.04,
+            "latencia_segundos": 2.59,
+            "consumo_ram_mb": 0.03,
+            "sucesso": false
+        },
+        {
+            "id": 6,
+            "latencia_segundos": 1.07,
+            "consumo_ram_mb": 0.02,
+            "sucesso": true
+        },
+        {
+            "id": 7,
+            "latencia_segundos": 0.75,
             "consumo_ram_mb": 0.0,
+            "sucesso": true
+        },
+        {
+            "id": 8,
+            "latencia_segundos": 2.55,
+            "consumo_ram_mb": 0.04,
+            "sucesso": false
+        },
+        {
+            "id": 9,
+            "latencia_segundos": 2.58,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 10,
+            "latencia_segundos": 1.92,
+            "consumo_ram_mb": 0.01,
+            "sucesso": false
+        },
+        {
+            "id": 11,
+            "latencia_segundos": 0.84,
+            "consumo_ram_mb": 0.0,
+            "sucesso": true
+        },
+        {
+            "id": 12,
+            "latencia_segundos": 0.74,
+            "consumo_ram_mb": 0.04,
+            "sucesso": false
+        },
+        {
+            "id": 13,
+            "latencia_segundos": 2.72,
+            "consumo_ram_mb": 0.0,
+            "sucesso": false
+        },
+        {
+            "id": 14,
+            "latencia_segundos": 2.52,
+            "consumo_ram_mb": 0.02,
+            "sucesso": true
+        },
+        {
+            "id": 15,
+            "latencia_segundos": 2.57,
+            "consumo_ram_mb": 0,
             "sucesso": false
         }
     ],
     "phi3": [
         {
             "id": 1,
-            "latencia_segundos": 2.04,
-            "consumo_ram_mb": 0.01,
-            "sucesso": false
+            "latencia_segundos": 8.66,
+            "consumo_ram_mb": 0,
+            "sucesso": true
         },
         {
             "id": 2,
-            "latencia_segundos": 2.02,
-            "consumo_ram_mb": 0.0,
+            "latencia_segundos": 2.83,
+            "consumo_ram_mb": 0,
             "sucesso": false
         },
         {
             "id": 3,
-            "latencia_segundos": 2.03,
+            "latencia_segundos": 1.65,
             "consumo_ram_mb": 0.02,
             "sucesso": false
         },
         {
             "id": 4,
-            "latencia_segundos": 2.04,
+            "latencia_segundos": 2.47,
             "consumo_ram_mb": 0.02,
-            "sucesso": false
+            "sucesso": true
         },
         {
             "id": 5,
-            "latencia_segundos": 2.03,
+            "latencia_segundos": 2.63,
+            "consumo_ram_mb": 0.04,
+            "sucesso": true
+        },
+        {
+            "id": 6,
+            "latencia_segundos": 2.62,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 7,
+            "latencia_segundos": 2.42,
+            "consumo_ram_mb": 0.03,
+            "sucesso": false
+        },
+        {
+            "id": 8,
+            "latencia_segundos": 2.51,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 9,
+            "latencia_segundos": 2.36,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 10,
+            "latencia_segundos": 1.83,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 11,
+            "latencia_segundos": 1.79,
+            "consumo_ram_mb": 7.44,
+            "sucesso": true
+        },
+        {
+            "id": 12,
+            "latencia_segundos": 1.95,
             "consumo_ram_mb": 0,
             "sucesso": false
+        },
+        {
+            "id": 13,
+            "latencia_segundos": 0.99,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 14,
+            "latencia_segundos": 1.67,
+            "consumo_ram_mb": 0,
+            "sucesso": true
+        },
+        {
+            "id": 15,
+            "latencia_segundos": 2.05,
+            "consumo_ram_mb": 0,
+            "sucesso": true
         }
     ]
 }
